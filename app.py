@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 from PIL import Image
 
-st.title("Avila: My First Deployment")
+st.title("My First Deployment")
 
 # Write Hello World with my Name
 st.write(""" 
