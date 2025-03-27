@@ -1,0 +1,6 @@
+gitdb
+GitPython
+gunicorn
+Markdown
+streamlit
+pip
